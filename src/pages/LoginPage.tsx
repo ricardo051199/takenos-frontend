@@ -24,7 +24,7 @@ export default function LoginPage({ onLogin }: LoginPageProps) {
           <img 
             src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/60/62/346062db-5d1b-e078-f7e8-5474829e741c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1200x630wa.jpg" 
             alt="Takenos Logo" 
-            className="h-14" 
+            className="h-20" 
           />
         </div>
     

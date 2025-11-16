@@ -7,8 +7,8 @@ interface SidebarProps {
 
 export default function Sidebar({ activePage, onNavigate }: SidebarProps) {
   const menuItems = [
-    { id: 'dashboard', label: 'Dashboard', icon: LayoutDashboard },
     { id: 'influencers', label: 'Influencers', icon: Users },
+    { id: 'dashboard', label: 'Dashboard', icon: LayoutDashboard },
     { id: 'automation', label: 'Automatización', icon: Zap },
     { id: 'reports', label: 'Reportes', icon: FileText },
     { id: 'settings', label: 'Configuración', icon: Settings },
